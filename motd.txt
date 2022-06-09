@@ -1,2 +1,1 @@
-Yeah, I fixed that stupid bug with the tank turret.
-Are you all happy now?
+Developing this game is starting to get taxing...
